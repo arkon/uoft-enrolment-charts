@@ -1,1 +1,1 @@
-"use strict";!function(){var t=function(t){var c=document.createElement("IMG");return c.src=t,c};!function(){$(document).on("click",".course",function(c){var n=c.currentTarget.dataset.chart,r=t("https://cdn.rawgit.com/arkon/uoft-enrolment-charts/"+n);$("#chart").html(r)})}()}();
+"use strict";$(document).on("click",".course",function(t){var c=t.currentTarget.dataset.chart,e=document.createElement("IMG");e.src=c,$("#chart").html(e)});
