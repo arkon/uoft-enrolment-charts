@@ -1,1 +1,1 @@
-"use strict";$(document).on("click",".course",function(t){var c=t.currentTarget.dataset.chart,e=document.createElement("IMG");e.src=c,$("#chart").html(e)});
+"use strict";!function(){var t=document.getElementById("chart");document.body.addEventListener("click",function(e){if("LI"===e.target.nodeName&&e.target.classList.contains("course")){var n=document.createElement("IMG");n.src=e.target.dataset.chart,t.innerHTML="",t.appendChild(n)}})}();
