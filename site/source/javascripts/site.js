@@ -4,9 +4,10 @@
   var elChart = document.getElementById('chart');
 
   document.body.addEventListener('click', function (e) {
-    if (e.target.nodeName === 'LI' && e.target.classList.contains('course')) {
+    if (e.target.nodeName === 'A' && e.target.classList.contains('courses__course')) {
+      e.preventDefault();
       var elImg = document.createElement('IMG');
-      elImg.src = e.target.dataset.chart;
+      elImg.src = e.target.href;
 
       elChart.innerHTML = '';
       elChart.appendChild(elImg);

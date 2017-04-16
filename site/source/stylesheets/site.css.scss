@@ -1,23 +1,68 @@
+$light-grey: #f3f3f3;
+$dark-grey: #333;
+$green: #60e859;
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 body {
-  background-color: #f3f3f3;
-  color: #333;
+  background-color: $light-grey;
+  color: $dark-grey;
   font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir",
     "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans",
     "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu",
     "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
-  padding: 1rem;
+  padding: 0 1rem;
+  width: 100%;
+}
+
+h1 {
+  margin: 1em 0;
 }
 
 a {
-  color: rgba(#000, 0.7);
+  color: rgba($dark-grey, 0.8);
 
   &:focus,
   &:hover {
-    color: rgba(#000, 0.6);
+    color: rgba($dark-grey, 0.7);
   }
 }
 
-details,
-li {
+ul {
+  margin-left: 1.5em;
+}
+
+footer {
+  font-size: 0.85em;
+  margin: 1em 0;
+}
+
+#chart {
+  margin-bottom: 1em;
+  overflow-x: auto;
+  text-align: center;
+}
+
+.courses {
+  background-color: $dark-grey;
+  border-radius: 0.25em;
+  color: $green;
+  padding: 0.5em;
+}
+
+.courses__dept,
+.courses__course {
   cursor: pointer;
+  padding: 0.25em 0.5em;
+
+  a {
+    color: inherit;
+    display: block;
+  }
 }
