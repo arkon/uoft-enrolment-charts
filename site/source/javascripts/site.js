@@ -10,6 +10,7 @@
 
       elChart.innerHTML = '';
       elChart.appendChild(elImg);
+      window.scrollTo(0, 0);
     }
   });
 })();
