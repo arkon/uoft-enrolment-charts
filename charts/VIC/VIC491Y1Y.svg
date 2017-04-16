@@ -270,7 +270,7 @@
 	<path stroke='black'  d='M45.5,45.1 L45.5,405.0 L778.9,405.0 L778.9,45.1 L45.5,45.1 Z  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<g transform="translate(412.2,25.9)" stroke="none" fill="black" font-family="Arial" font-size="10.00"  text-anchor="middle">
-		<text><tspan font-family="Arial" >VIC491Y1Y (2016-12-23 - 2017-04-14)</tspan></text>
+		<text><tspan font-family="Arial" >VIC491Y1Y (2016-12-23 - 2017-04-16)</tspan></text>
 	</g>
 </g>
 	<g id="gnuplot_plot_1" ><title>LEC-0101 (enrolled)</title>
@@ -294,7 +294,7 @@
 		L598.5,225.0 L604.3,225.0 L610.1,225.0 L615.9,225.0 L621.7,225.0 L627.6,225.0 L633.4,225.0 L639.2,225.0
 		L645.0,225.0 L650.8,225.0 L656.7,225.0 L662.5,225.0 L668.3,225.0 L674.1,225.0 L679.9,225.0 L685.8,225.0
 		L691.6,225.0 L697.4,225.0 L703.2,225.0 L709.1,225.0 L714.9,225.0 L720.7,225.0 L726.5,225.0 L732.3,225.0
-		L738.2,225.0 L744.0,225.0  '/>	<use xlink:href='#gpPt0' transform='translate(92.1,225.0) scale(3.75)' color='rgb(148,   0, 211)'/>
+		L738.2,225.0 L744.0,225.0 L749.8,225.0 L755.6,225.0  '/>	<use xlink:href='#gpPt0' transform='translate(92.1,225.0) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(92.1,225.0) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(97.9,225.0) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(103.7,225.0) scale(3.75)' color='rgb(148,   0, 211)'/>
@@ -407,6 +407,8 @@
 	<use xlink:href='#gpPt0' transform='translate(732.3,225.0) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(738.2,225.0) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(744.0,225.0) scale(3.75)' color='rgb(148,   0, 211)'/>
+	<use xlink:href='#gpPt0' transform='translate(749.8,225.0) scale(3.75)' color='rgb(148,   0, 211)'/>
+	<use xlink:href='#gpPt0' transform='translate(755.6,225.0) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(478.6,435.0) scale(3.75)' color='rgb(148,   0, 211)'/>
 </g>
 	</g>
