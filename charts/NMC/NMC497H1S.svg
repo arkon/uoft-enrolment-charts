@@ -296,7 +296,7 @@
 	<path stroke='black'  d='M31.5,45.1 L31.5,405.0 L778.9,405.0 L778.9,45.1 L31.5,45.1 Z  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<g transform="translate(405.2,25.9)" stroke="none" fill="black" font-family="Arial" font-size="10.00"  text-anchor="middle">
-		<text><tspan font-family="Arial" >NMC497H1S (2016-12-23 - 2017-04-16)</tspan></text>
+		<text><tspan font-family="Arial" >NMC497H1S (2016-12-23 - 2017-04-17)</tspan></text>
 	</g>
 </g>
 	<g id="gnuplot_plot_1" ><title>LEC-0101 (enrolled)</title>
@@ -320,7 +320,7 @@
 		L595.0,90.1 L600.9,90.1 L606.9,90.1 L612.8,90.1 L618.7,90.1 L624.7,90.1 L630.6,90.1 L636.5,90.1
 		L642.5,90.1 L648.4,90.1 L654.3,90.1 L660.3,90.1 L666.2,90.1 L672.1,90.1 L678.1,90.1 L684.0,90.1
 		L689.9,90.1 L695.9,90.1 L701.8,135.1 L707.7,135.1 L713.7,135.1 L719.6,135.1 L725.5,135.1 L731.4,135.1
-		L737.4,135.1 L743.3,135.1 L749.2,135.1 L755.2,135.1  '/>	<use xlink:href='#gpPt0' transform='translate(79.0,360.0) scale(3.75)' color='rgb(148,   0, 211)'/>
+		L737.4,135.1 L743.3,135.1 L749.2,135.1 L755.2,135.1 L761.1,135.1  '/>	<use xlink:href='#gpPt0' transform='translate(79.0,360.0) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(79.0,360.0) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(84.9,360.0) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(90.8,360.0) scale(3.75)' color='rgb(148,   0, 211)'/>
@@ -435,6 +435,7 @@
 	<use xlink:href='#gpPt0' transform='translate(743.3,135.1) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(749.2,135.1) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(755.2,135.1) scale(3.75)' color='rgb(148,   0, 211)'/>
+	<use xlink:href='#gpPt0' transform='translate(761.1,135.1) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(471.6,435.0) scale(3.75)' color='rgb(148,   0, 211)'/>
 </g>
 	</g>

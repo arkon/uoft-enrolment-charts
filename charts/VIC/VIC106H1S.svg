@@ -283,7 +283,7 @@
 	<path stroke='black'  d='M52.5,45.1 L52.5,405.0 L778.9,405.0 L778.9,45.1 L52.5,45.1 Z  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<g transform="translate(415.7,25.9)" stroke="none" fill="black" font-family="Arial" font-size="10.00"  text-anchor="middle">
-		<text><tspan font-family="Arial" >VIC106H1S (2016-12-23 - 2017-04-16)</tspan></text>
+		<text><tspan font-family="Arial" >VIC106H1S (2016-12-23 - 2017-04-17)</tspan></text>
 	</g>
 </g>
 	<g id="gnuplot_plot_1" ><title>LEC-0101 (enrolled)</title>
@@ -307,7 +307,7 @@
 		L600.2,353.6 L605.9,353.6 L611.7,353.6 L617.5,353.6 L623.2,353.6 L629.0,353.6 L634.8,353.6 L640.5,353.6
 		L646.3,353.6 L652.1,353.6 L657.8,353.6 L663.6,353.6 L669.4,353.6 L675.1,353.6 L680.9,353.6 L686.7,353.6
 		L692.4,353.6 L698.2,353.6 L704.0,353.6 L709.7,353.6 L715.5,353.6 L721.2,353.6 L727.0,353.6 L732.8,353.6
-		L738.5,353.6 L744.3,353.6 L750.1,353.6 L755.8,353.6  '/>	<use xlink:href='#gpPt0' transform='translate(98.6,96.5) scale(3.75)' color='rgb(148,   0, 211)'/>
+		L738.5,353.6 L744.3,353.6 L750.1,353.6 L755.8,353.6 L761.6,353.6  '/>	<use xlink:href='#gpPt0' transform='translate(98.6,96.5) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(98.6,96.5) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(104.4,96.5) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(110.2,96.5) scale(3.75)' color='rgb(148,   0, 211)'/>
@@ -422,6 +422,7 @@
 	<use xlink:href='#gpPt0' transform='translate(744.3,353.6) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(750.1,353.6) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(755.8,353.6) scale(3.75)' color='rgb(148,   0, 211)'/>
+	<use xlink:href='#gpPt0' transform='translate(761.6,353.6) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(482.1,435.0) scale(3.75)' color='rgb(148,   0, 211)'/>
 </g>
 	</g>

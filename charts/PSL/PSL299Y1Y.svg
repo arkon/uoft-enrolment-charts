@@ -296,7 +296,7 @@
 	<path stroke='black'  d='M45.5,45.1 L45.5,390.0 L778.9,390.0 L778.9,45.1 L45.5,45.1 Z  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<g transform="translate(412.2,25.9)" stroke="none" fill="black" font-family="Arial" font-size="10.00"  text-anchor="middle">
-		<text><tspan font-family="Arial" >PSL299Y1Y (2016-12-23 - 2017-04-16)</tspan></text>
+		<text><tspan font-family="Arial" >PSL299Y1Y (2016-12-23 - 2017-04-17)</tspan></text>
 	</g>
 </g>
 	<g id="gnuplot_plot_1" ><title>LEC-0601 (enrolled)</title>
@@ -320,7 +320,7 @@
 		L598.5,88.2 L604.3,88.2 L610.1,88.2 L615.9,88.2 L621.7,88.2 L627.6,88.2 L633.4,88.2 L639.2,88.2
 		L645.0,88.2 L650.8,88.2 L656.7,88.2 L662.5,88.2 L668.3,88.2 L674.1,88.2 L679.9,88.2 L685.8,88.2
 		L691.6,88.2 L697.4,88.2 L703.2,88.2 L709.1,88.2 L714.9,88.2 L720.7,88.2 L726.5,88.2 L732.3,88.2
-		L738.2,88.2 L744.0,88.2 L749.8,88.2 L755.6,88.2  '/>	<use xlink:href='#gpPt0' transform='translate(92.1,88.2) scale(3.75)' color='rgb(148,   0, 211)'/>
+		L738.2,88.2 L744.0,88.2 L749.8,88.2 L755.6,88.2 L761.4,88.2  '/>	<use xlink:href='#gpPt0' transform='translate(92.1,88.2) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(92.1,88.2) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(97.9,88.2) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(103.7,88.2) scale(3.75)' color='rgb(148,   0, 211)'/>
@@ -435,6 +435,7 @@
 	<use xlink:href='#gpPt0' transform='translate(744.0,88.2) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(749.8,88.2) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(755.6,88.2) scale(3.75)' color='rgb(148,   0, 211)'/>
+	<use xlink:href='#gpPt0' transform='translate(761.4,88.2) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(296.1,420.0) scale(3.75)' color='rgb(148,   0, 211)'/>
 </g>
 	</g>
@@ -459,7 +460,7 @@
 		L598.5,346.9 L604.3,346.9 L610.1,346.9 L615.9,346.9 L621.7,346.9 L627.6,346.9 L633.4,346.9 L639.2,346.9
 		L645.0,346.9 L650.8,346.9 L656.7,346.9 L662.5,346.9 L668.3,346.9 L674.1,346.9 L679.9,346.9 L685.8,346.9
 		L691.6,346.9 L697.4,346.9 L703.2,346.9 L709.1,346.9 L714.9,346.9 L720.7,346.9 L726.5,346.9 L732.3,346.9
-		L738.2,346.9 L744.0,346.9 L749.8,346.9 L755.6,346.9  '/>	<use xlink:href='#gpPt1' transform='translate(92.1,346.9) scale(3.75)' color='rgb(  0, 158, 115)'/>
+		L738.2,346.9 L744.0,346.9 L749.8,346.9 L755.6,346.9 L761.4,346.9  '/>	<use xlink:href='#gpPt1' transform='translate(92.1,346.9) scale(3.75)' color='rgb(  0, 158, 115)'/>
 	<use xlink:href='#gpPt1' transform='translate(92.1,346.9) scale(3.75)' color='rgb(  0, 158, 115)'/>
 	<use xlink:href='#gpPt1' transform='translate(97.9,346.9) scale(3.75)' color='rgb(  0, 158, 115)'/>
 	<use xlink:href='#gpPt1' transform='translate(103.7,346.9) scale(3.75)' color='rgb(  0, 158, 115)'/>
@@ -574,6 +575,7 @@
 	<use xlink:href='#gpPt1' transform='translate(744.0,346.9) scale(3.75)' color='rgb(  0, 158, 115)'/>
 	<use xlink:href='#gpPt1' transform='translate(749.8,346.9) scale(3.75)' color='rgb(  0, 158, 115)'/>
 	<use xlink:href='#gpPt1' transform='translate(755.6,346.9) scale(3.75)' color='rgb(  0, 158, 115)'/>
+	<use xlink:href='#gpPt1' transform='translate(761.4,346.9) scale(3.75)' color='rgb(  0, 158, 115)'/>
 	<use xlink:href='#gpPt1' transform='translate(296.1,435.0) scale(3.75)' color='rgb(  0, 158, 115)'/>
 </g>
 	</g>
@@ -598,7 +600,7 @@
 		L598.5,346.9 L604.3,346.9 L610.1,346.9 L615.9,346.9 L621.7,346.9 L627.6,346.9 L633.4,346.9 L639.2,346.9
 		L645.0,346.9 L650.8,346.9 L656.7,346.9 L662.5,346.9 L668.3,346.9 L674.1,346.9 L679.9,346.9 L685.8,346.9
 		L691.6,346.9 L697.4,346.9 L703.2,346.9 L709.1,346.9 L714.9,346.9 L720.7,346.9 L726.5,346.9 L732.3,346.9
-		L738.2,346.9 L744.0,346.9 L749.8,346.9 L755.6,346.9  '/>	<use xlink:href='#gpPt2' transform='translate(92.1,346.9) scale(3.75)' color='rgb( 86, 180, 233)'/>
+		L738.2,346.9 L744.0,346.9 L749.8,346.9 L755.6,346.9 L761.4,346.9  '/>	<use xlink:href='#gpPt2' transform='translate(92.1,346.9) scale(3.75)' color='rgb( 86, 180, 233)'/>
 	<use xlink:href='#gpPt2' transform='translate(92.1,346.9) scale(3.75)' color='rgb( 86, 180, 233)'/>
 	<use xlink:href='#gpPt2' transform='translate(97.9,346.9) scale(3.75)' color='rgb( 86, 180, 233)'/>
 	<use xlink:href='#gpPt2' transform='translate(103.7,346.9) scale(3.75)' color='rgb( 86, 180, 233)'/>
@@ -713,6 +715,7 @@
 	<use xlink:href='#gpPt2' transform='translate(744.0,346.9) scale(3.75)' color='rgb( 86, 180, 233)'/>
 	<use xlink:href='#gpPt2' transform='translate(749.8,346.9) scale(3.75)' color='rgb( 86, 180, 233)'/>
 	<use xlink:href='#gpPt2' transform='translate(755.6,346.9) scale(3.75)' color='rgb( 86, 180, 233)'/>
+	<use xlink:href='#gpPt2' transform='translate(761.4,346.9) scale(3.75)' color='rgb( 86, 180, 233)'/>
 	<use xlink:href='#gpPt2' transform='translate(478.6,420.0) scale(3.75)' color='rgb( 86, 180, 233)'/>
 </g>
 	</g>
@@ -737,7 +740,7 @@
 		L598.5,346.9 L604.3,346.9 L610.1,346.9 L615.9,346.9 L621.7,346.9 L627.6,346.9 L633.4,346.9 L639.2,346.9
 		L645.0,346.9 L650.8,346.9 L656.7,346.9 L662.5,346.9 L668.3,346.9 L674.1,346.9 L679.9,346.9 L685.8,346.9
 		L691.6,346.9 L697.4,346.9 L703.2,346.9 L709.1,346.9 L714.9,346.9 L720.7,346.9 L726.5,346.9 L732.3,346.9
-		L738.2,346.9 L744.0,346.9 L749.8,346.9 L755.6,346.9  '/>	<use xlink:href='#gpPt3' transform='translate(92.1,346.9) scale(3.75)' color='rgb(230, 159,   0)'/>
+		L738.2,346.9 L744.0,346.9 L749.8,346.9 L755.6,346.9 L761.4,346.9  '/>	<use xlink:href='#gpPt3' transform='translate(92.1,346.9) scale(3.75)' color='rgb(230, 159,   0)'/>
 	<use xlink:href='#gpPt3' transform='translate(92.1,346.9) scale(3.75)' color='rgb(230, 159,   0)'/>
 	<use xlink:href='#gpPt3' transform='translate(97.9,346.9) scale(3.75)' color='rgb(230, 159,   0)'/>
 	<use xlink:href='#gpPt3' transform='translate(103.7,346.9) scale(3.75)' color='rgb(230, 159,   0)'/>
@@ -852,6 +855,7 @@
 	<use xlink:href='#gpPt3' transform='translate(744.0,346.9) scale(3.75)' color='rgb(230, 159,   0)'/>
 	<use xlink:href='#gpPt3' transform='translate(749.8,346.9) scale(3.75)' color='rgb(230, 159,   0)'/>
 	<use xlink:href='#gpPt3' transform='translate(755.6,346.9) scale(3.75)' color='rgb(230, 159,   0)'/>
+	<use xlink:href='#gpPt3' transform='translate(761.4,346.9) scale(3.75)' color='rgb(230, 159,   0)'/>
 	<use xlink:href='#gpPt3' transform='translate(478.6,435.0) scale(3.75)' color='rgb(230, 159,   0)'/>
 </g>
 	</g>
@@ -876,7 +880,7 @@
 		L598.5,174.4 L604.3,174.4 L610.1,174.4 L615.9,174.4 L621.7,174.4 L627.6,174.4 L633.4,174.4 L639.2,174.4
 		L645.0,174.4 L650.8,174.4 L656.7,174.4 L662.5,174.4 L668.3,174.4 L674.1,174.4 L679.9,174.4 L685.8,174.4
 		L691.6,174.4 L697.4,174.4 L703.2,174.4 L709.1,174.4 L714.9,174.4 L720.7,174.4 L726.5,174.4 L732.3,174.4
-		L738.2,174.4 L744.0,174.4 L749.8,174.4 L755.6,174.4  '/>	<use xlink:href='#gpPt4' transform='translate(92.1,174.4) scale(3.75)' color='rgb(240, 228,  66)'/>
+		L738.2,174.4 L744.0,174.4 L749.8,174.4 L755.6,174.4 L761.4,174.4  '/>	<use xlink:href='#gpPt4' transform='translate(92.1,174.4) scale(3.75)' color='rgb(240, 228,  66)'/>
 	<use xlink:href='#gpPt4' transform='translate(92.1,174.4) scale(3.75)' color='rgb(240, 228,  66)'/>
 	<use xlink:href='#gpPt4' transform='translate(97.9,174.4) scale(3.75)' color='rgb(240, 228,  66)'/>
 	<use xlink:href='#gpPt4' transform='translate(103.7,174.4) scale(3.75)' color='rgb(240, 228,  66)'/>
@@ -991,6 +995,7 @@
 	<use xlink:href='#gpPt4' transform='translate(744.0,174.4) scale(3.75)' color='rgb(240, 228,  66)'/>
 	<use xlink:href='#gpPt4' transform='translate(749.8,174.4) scale(3.75)' color='rgb(240, 228,  66)'/>
 	<use xlink:href='#gpPt4' transform='translate(755.6,174.4) scale(3.75)' color='rgb(240, 228,  66)'/>
+	<use xlink:href='#gpPt4' transform='translate(761.4,174.4) scale(3.75)' color='rgb(240, 228,  66)'/>
 	<use xlink:href='#gpPt4' transform='translate(661.1,420.0) scale(3.75)' color='rgb(240, 228,  66)'/>
 </g>
 	</g>
@@ -1015,7 +1020,7 @@
 		L598.5,260.7 L604.3,260.7 L610.1,260.7 L615.9,260.7 L621.7,260.7 L627.6,260.7 L633.4,260.7 L639.2,260.7
 		L645.0,260.7 L650.8,260.7 L656.7,260.7 L662.5,260.7 L668.3,260.7 L674.1,260.7 L679.9,260.7 L685.8,260.7
 		L691.6,260.7 L697.4,260.7 L703.2,260.7 L709.1,260.7 L714.9,260.7 L720.7,260.7 L726.5,260.7 L732.3,260.7
-		L738.2,260.7 L744.0,260.7 L749.8,260.7 L755.6,260.7  '/>	<use xlink:href='#gpPt5' transform='translate(92.1,260.7) scale(3.75)' color='rgb(  0, 114, 178)'/>
+		L738.2,260.7 L744.0,260.7 L749.8,260.7 L755.6,260.7 L761.4,260.7  '/>	<use xlink:href='#gpPt5' transform='translate(92.1,260.7) scale(3.75)' color='rgb(  0, 114, 178)'/>
 	<use xlink:href='#gpPt5' transform='translate(92.1,260.7) scale(3.75)' color='rgb(  0, 114, 178)'/>
 	<use xlink:href='#gpPt5' transform='translate(97.9,260.7) scale(3.75)' color='rgb(  0, 114, 178)'/>
 	<use xlink:href='#gpPt5' transform='translate(103.7,260.7) scale(3.75)' color='rgb(  0, 114, 178)'/>
@@ -1130,6 +1135,7 @@
 	<use xlink:href='#gpPt5' transform='translate(744.0,260.7) scale(3.75)' color='rgb(  0, 114, 178)'/>
 	<use xlink:href='#gpPt5' transform='translate(749.8,260.7) scale(3.75)' color='rgb(  0, 114, 178)'/>
 	<use xlink:href='#gpPt5' transform='translate(755.6,260.7) scale(3.75)' color='rgb(  0, 114, 178)'/>
+	<use xlink:href='#gpPt5' transform='translate(761.4,260.7) scale(3.75)' color='rgb(  0, 114, 178)'/>
 	<use xlink:href='#gpPt5' transform='translate(661.1,435.0) scale(3.75)' color='rgb(  0, 114, 178)'/>
 </g>
 	</g>

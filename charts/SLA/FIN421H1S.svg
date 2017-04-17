@@ -257,7 +257,7 @@
 	<path stroke='black'  d='M45.5,45.1 L45.5,405.0 L778.9,405.0 L778.9,45.1 L45.5,45.1 Z  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<g transform="translate(412.2,25.9)" stroke="none" fill="black" font-family="Arial" font-size="10.00"  text-anchor="middle">
-		<text><tspan font-family="Arial" >FIN421H1S (2016-12-23 - 2017-04-16)</tspan></text>
+		<text><tspan font-family="Arial" >FIN421H1S (2016-12-23 - 2017-04-17)</tspan></text>
 	</g>
 </g>
 	<g id="gnuplot_plot_1" ><title>LEC-0101 (enrolled)</title>
@@ -278,7 +278,7 @@
 		L561.9,96.5 L569.4,96.5 L576.8,96.5 L584.3,96.5 L591.8,96.5 L599.3,96.5 L606.8,96.5 L614.3,96.5
 		L621.7,96.5 L629.2,96.5 L636.7,96.5 L644.2,96.5 L651.7,96.5 L666.6,96.5 L674.1,96.5 L681.6,96.5
 		L689.1,96.5 L696.6,96.5 L704.1,96.5 L711.5,96.5 L719.0,96.5 L726.5,96.5 L734.0,96.5 L741.5,96.5
-		L749.0,96.5  '/>	<use xlink:href='#gpPt0' transform='translate(105.4,353.6) scale(3.75)' color='rgb(148,   0, 211)'/>
+		L749.0,96.5 L756.4,96.5  '/>	<use xlink:href='#gpPt0' transform='translate(105.4,353.6) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(105.4,96.5) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(112.9,96.5) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(120.3,96.5) scale(3.75)' color='rgb(148,   0, 211)'/>
@@ -365,6 +365,7 @@
 	<use xlink:href='#gpPt0' transform='translate(734.0,96.5) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(741.5,96.5) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(749.0,96.5) scale(3.75)' color='rgb(148,   0, 211)'/>
+	<use xlink:href='#gpPt0' transform='translate(756.4,96.5) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(478.6,435.0) scale(3.75)' color='rgb(148,   0, 211)'/>
 </g>
 	</g>
