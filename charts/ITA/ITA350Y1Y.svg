@@ -348,7 +348,7 @@
 	<path stroke='black'  d='M38.5,45.1 L38.5,405.0 L778.9,405.0 L778.9,45.1 L38.5,45.1 Z  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<g transform="translate(408.7,25.9)" stroke="none" fill="black" font-family="Arial" font-size="10.00"  text-anchor="middle">
-		<text><tspan font-family="Arial" >ITA350Y1Y (2016-12-23 - 2017-04-21)</tspan></text>
+		<text><tspan font-family="Arial" >ITA350Y1Y (2016-12-23 - 2017-04-25)</tspan></text>
 	</g>
 </g>
 	<g id="gnuplot_plot_1" ><title>LEC-0101 (enrolled)</title>
@@ -373,7 +373,7 @@
 		L583.2,372.3 L588.5,372.3 L593.8,372.3 L599.1,372.3 L604.4,372.3 L609.7,372.3 L615.0,372.3 L620.2,372.3
 		L625.5,372.3 L630.8,372.3 L636.1,372.3 L641.4,372.3 L646.7,372.3 L652.0,372.3 L657.3,372.3 L662.6,372.3
 		L667.8,372.3 L673.1,372.3 L678.4,372.3 L683.7,372.3 L689.0,372.3 L694.3,372.3 L699.6,372.3 L704.9,372.3
-		L710.1,372.3  '/>	<use xlink:href='#gpPt0' transform='translate(80.8,372.3) scale(3.75)' color='rgb(148,   0, 211)'/>
+		L710.1,372.3 L715.4,372.3 L720.7,372.3 L726.0,372.3 L731.3,372.3  '/>	<use xlink:href='#gpPt0' transform='translate(80.8,372.3) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(80.8,372.3) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(86.1,372.3) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(91.4,372.3) scale(3.75)' color='rgb(148,   0, 211)'/>
@@ -493,6 +493,10 @@
 	<use xlink:href='#gpPt0' transform='translate(699.6,372.3) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(704.9,372.3) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(710.1,372.3) scale(3.75)' color='rgb(148,   0, 211)'/>
+	<use xlink:href='#gpPt0' transform='translate(715.4,372.3) scale(3.75)' color='rgb(148,   0, 211)'/>
+	<use xlink:href='#gpPt0' transform='translate(720.7,372.3) scale(3.75)' color='rgb(148,   0, 211)'/>
+	<use xlink:href='#gpPt0' transform='translate(726.0,372.3) scale(3.75)' color='rgb(148,   0, 211)'/>
+	<use xlink:href='#gpPt0' transform='translate(731.3,372.3) scale(3.75)' color='rgb(148,   0, 211)'/>
 	<use xlink:href='#gpPt0' transform='translate(383.9,435.0) scale(3.75)' color='rgb(148,   0, 211)'/>
 </g>
 	</g>
@@ -518,7 +522,7 @@
 		L583.2,77.8 L588.5,77.8 L593.8,77.8 L599.1,77.8 L604.4,77.8 L609.7,77.8 L615.0,77.8 L620.2,77.8
 		L625.5,77.8 L630.8,77.8 L636.1,94.2 L641.4,94.2 L646.7,94.2 L652.0,94.2 L657.3,94.2 L662.6,94.2
 		L667.8,94.2 L673.1,94.2 L678.4,94.2 L683.7,94.2 L689.0,94.2 L694.3,94.2 L699.6,94.2 L704.9,94.2
-		L710.1,94.2  '/>	<use xlink:href='#gpPt1' transform='translate(80.8,77.8) scale(3.75)' color='rgb(  0, 158, 115)'/>
+		L710.1,94.2 L715.4,94.2 L720.7,94.2 L726.0,94.2 L731.3,94.2  '/>	<use xlink:href='#gpPt1' transform='translate(80.8,77.8) scale(3.75)' color='rgb(  0, 158, 115)'/>
 	<use xlink:href='#gpPt1' transform='translate(80.8,77.8) scale(3.75)' color='rgb(  0, 158, 115)'/>
 	<use xlink:href='#gpPt1' transform='translate(86.1,77.8) scale(3.75)' color='rgb(  0, 158, 115)'/>
 	<use xlink:href='#gpPt1' transform='translate(91.4,77.8) scale(3.75)' color='rgb(  0, 158, 115)'/>
@@ -638,6 +642,10 @@
 	<use xlink:href='#gpPt1' transform='translate(699.6,94.2) scale(3.75)' color='rgb(  0, 158, 115)'/>
 	<use xlink:href='#gpPt1' transform='translate(704.9,94.2) scale(3.75)' color='rgb(  0, 158, 115)'/>
 	<use xlink:href='#gpPt1' transform='translate(710.1,94.2) scale(3.75)' color='rgb(  0, 158, 115)'/>
+	<use xlink:href='#gpPt1' transform='translate(715.4,94.2) scale(3.75)' color='rgb(  0, 158, 115)'/>
+	<use xlink:href='#gpPt1' transform='translate(720.7,94.2) scale(3.75)' color='rgb(  0, 158, 115)'/>
+	<use xlink:href='#gpPt1' transform='translate(726.0,94.2) scale(3.75)' color='rgb(  0, 158, 115)'/>
+	<use xlink:href='#gpPt1' transform='translate(731.3,94.2) scale(3.75)' color='rgb(  0, 158, 115)'/>
 	<use xlink:href='#gpPt1' transform='translate(566.4,435.0) scale(3.75)' color='rgb(  0, 158, 115)'/>
 </g>
 	</g>
